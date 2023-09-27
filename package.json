@@ -1,0 +1,24 @@
+{
+  "name": "webpack-optimization-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okyungjin/webpack-optimizing-for-production.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okyungjin/webpack-optimizing-for-production/issues"
+  },
+  "homepage": "https://github.com/okyungjin/webpack-optimizing-for-production#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
